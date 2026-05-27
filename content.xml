@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260527125624MUSUD1</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260527125624I8JMUY</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La vuelta al mundo en 80 ritmos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Noemí Ojeda García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta SdA ha sido creada para el conocimiento de los diferentes géneros musicales del mundo y va dirigida al segundo ciclo de Primaria.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779811665381</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1779780455591-v4592spbx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LA VUELTA AL MUNDO EN 80 RITMOS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LA VUELTA AL MUNDO EN 80 RITMOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>LA VUELTA AL MUNDO EN 80 RITMOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779780455591-v4592spbx</odePageId>
+      <odeBlockId>block-1779780511647-jpo181rem</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779780455591-v4592spbx</odePageId>
+          <odeBlockId>block-1779780511647-jpo181rem</odeBlockId>
+          <odeIdeviceId>idevice-1779780511643-c80sfa83u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1; font-size: 18pt;">BIENVENIDOS </span></strong></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;">En esta sección se presenta la SdA titulada "La vuelta al mundo en 80 ritmos", dirigida al alumnado de 3º ciclo. A lo largo de esta propuesta se recogen las diferentes actividades, recursos y experiencias. Así mismo, se mostrará la organización de la secuencia didáctica, así como los elementos principales que la componen, facilitando una visión global del trabajo que se desarrollará en el aula.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;">Os animo a seguir descubriendo y adentraros en las maravillas de la música, una aprendizaje lleno de curiosidad y diversión.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779780511643-c80sfa83u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1; font-size: 18pt;\">BIENVENIDOS </span></strong></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\">En esta sección se presenta la SdA titulada \"La vuelta al mundo en 80 ritmos\", dirigida al alumnado de 3º ciclo. A lo largo de esta propuesta se recogen las diferentes actividades, recursos y experiencias. Así mismo, se mostrará la organización de la secuencia didáctica, así como los elementos principales que la componen, facilitando una visión global del trabajo que se desarrollará en el aula.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\">Os animo a seguir descubriendo y adentraros en las maravillas de la música, una aprendizaje lleno de curiosidad y diversión.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779779673006-iho62gzs7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN Y DESCRIPCIÓN</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779779673006-iho62gzs7</odePageId>
+      <odeBlockId>block-1779779837578-0azr5ncdp</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779779673006-iho62gzs7</odePageId>
+          <odeBlockId>block-1779779837578-0azr5ncdp</odeBlockId>
+          <odeIdeviceId>idevice-1779779837572-9rp12y0je</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; background-color: #ffffff; color: #236fa1;">La música es un lenguaje universal que nos permite viajar, conocer culturas y descubrir la historia y las emociones de diferentes pueblos del mundo. En esta situación de aprendizaje, el alumnado explorará distintos estilos musicales de diversos países y épocas, investigando sus características, instrumentos y artistas más representativos. Como producto final, crearán un podcast titulado “La vuelta al mundo en 80 ritmos”, en el que compartirán sus descubrimientos de forma creativa y colaborativa, desarrollando al mismo tiempo competencias comunicativas, digitales y artísticas.</span><br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779779837572-9rp12y0je","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif; background-color: #ffffff; color: #236fa1;\">La música es un lenguaje universal que nos permite viajar, conocer culturas y descubrir la historia y las emociones de diferentes pueblos del mundo. En esta situación de aprendizaje, el alumnado explorará distintos estilos musicales de diversos países y épocas, investigando sus características, instrumentos y artistas más representativos. Como producto final, crearán un podcast titulado “La vuelta al mundo en 80 ritmos”, en el que compartirán sus descubrimientos de forma creativa y colaborativa, desarrollando al mismo tiempo competencias comunicativas, digitales y artísticas.</span><br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779780892756-z68geozsf</odePageId>
+  <odeParentPageId>page-1779779673006-iho62gzs7</odeParentPageId>
+  <pageName>COMENZAMOS NUESTRO PROYECTO</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMENZAMOS NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779780892756-z68geozsf</odePageId>
+      <odeBlockId>block-1779808321541-ku8ygotzw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779780892756-z68geozsf</odePageId>
+          <odeBlockId>block-1779808321541-ku8ygotzw</odeBlockId>
+          <odeIdeviceId>idevice-1779808321536-5zb29z6cn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;" title="">En el siguiente enlace se puede consultar la descripción de la situación de aprendizaje “La vuelta al mundo en 80 ritmos”, donde se detallan aspectos como el centro de interés, el nivel educativo al que va dirigida, la temporalización estimada, las áreas implicadas, así como una visión general de los aprendizajes y contenidos que se pretende que el alumnado desarrolle.</span></p>
+<p><a href="https://docs.google.com/document/d/1G4SwoGRmgNih8Neq3rOSboDKIw3_BFVqeApO431afGI/edit?usp=sharing" title="">https://docs.google.com/document/d/1G4SwoGRmgNih8Neq3rOSboDKIw3_BFVqeApO431afGI/edit?usp=sharing</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779808321536-5zb29z6cn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\" title=\"\">En el siguiente enlace se puede consultar la descripción de la situación de aprendizaje “La vuelta al mundo en 80 ritmos”, donde se detallan aspectos como el centro de interés, el nivel educativo al que va dirigida, la temporalización estimada, las áreas implicadas, así como una visión general de los aprendizajes y contenidos que se pretende que el alumnado desarrolle.</span></p>\n<p><a href=\"https://docs.google.com/document/d/1G4SwoGRmgNih8Neq3rOSboDKIw3_BFVqeApO431afGI/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1G4SwoGRmgNih8Neq3rOSboDKIw3_BFVqeApO431afGI/edit?usp=sharing</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779780914123-f8t6xxgnm</odePageId>
+  <odeParentPageId>page-1779779673006-iho62gzs7</odeParentPageId>
+  <pageName>LICENCIAS Y SEGURIDAD</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LICENCIAS Y SEGURIDAD</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779780914123-f8t6xxgnm</odePageId>
+      <odeBlockId>block-1779809084784-xpo9fy55t</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779780914123-f8t6xxgnm</odePageId>
+          <odeBlockId>block-1779809084784-xpo9fy55t</odeBlockId>
+          <odeIdeviceId>idevice-1779809084779-5n640ob5w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;" title="">A continuación se muestra un enlace en el que se puede consultar una infografía que recoge las indicaciones fundamentales sobre la protección de datos personales y las garantías de los derechos digitales.</span></p>
+<p><a href="https://canva.link/gyldmpzfu5efcyi" title="">https://canva.link/gyldmpzfu5efcyi</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779809084779-5n640ob5w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\" title=\"\">A continuación se muestra un enlace en el que se puede consultar una infografía que recoge las indicaciones fundamentales sobre la protección de datos personales y las garantías de los derechos digitales.</span></p>\n<p><a href=\"https://canva.link/gyldmpzfu5efcyi\" title=\"\">https://canva.link/gyldmpzfu5efcyi</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779779705754-804243yjs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779779705754-804243yjs</odePageId>
+      <odeBlockId>block-1779809476070-3w6ndowux</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779779705754-804243yjs</odePageId>
+          <odeBlockId>block-1779809476070-3w6ndowux</odeBlockId>
+          <odeIdeviceId>idevice-1779809476069-8gnq7bqzj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1; font-size: 14pt;">Tarea final</span></strong></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;">Mi tarea final consiste en grabar un podcast o un programa de radio donde presenten el género, entrevisten a un "artista" (un alumno caracterizado) y pinchen la música.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;">Los audios se suben a una plataforma (como SoundCloud o Ivoox) o a la web del centro para que toda la comunidad educativa pueda escucharlos.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;">Es un producto final recogido dentro de una SdA, titulada " La vuelta al mundo en 80 ritmos" dirigida al alumnado de sexto, donde trabajaremos con la CD, CCL y CCEC</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;">He elegido este recurso porque rompe con la clase magistral de "historia de la música". Al utilizar el podcast como producto final, se trabajan competencias digitales, la expresión oral y, sobre todo, se da valor al gusto estético del alumnado, permitiéndoles conectar los géneros clásicos con los que escuchan en su día a día.</span><br /><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;"> </span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779809476069-8gnq7bqzj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1; font-size: 14pt;\">Tarea final</span></strong></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\">Mi tarea final consiste en grabar un podcast o un programa de radio donde presenten el género, entrevisten a un \"artista\" (un alumno caracterizado) y pinchen la música.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\">Los audios se suben a una plataforma (como SoundCloud o Ivoox) o a la web del centro para que toda la comunidad educativa pueda escucharlos.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\">Es un producto final recogido dentro de una SdA, titulada \" La vuelta al mundo en 80 ritmos\" dirigida al alumnado de sexto, donde trabajaremos con la CD, CCL y CCEC</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\">He elegido este recurso porque rompe con la clase magistral de \"historia de la música\". Al utilizar el podcast como producto final, se trabajan competencias digitales, la expresión oral y, sobre todo, se da valor al gusto estético del alumnado, permitiéndoles conectar los géneros clásicos con los que escuchan en su día a día.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\"> </span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779779726436-6rcz42iwa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779779726436-6rcz42iwa</odePageId>
+      <odeBlockId>block-1779809779995-8j74pnlbd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779779726436-6rcz42iwa</odePageId>
+          <odeBlockId>block-1779809779995-8j74pnlbd</odeBlockId>
+          <odeIdeviceId>idevice-1779809779991-vg1pem5ho</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;">A continuación se presenta un Padlet en el que se recogen diversos recursos relacionados con la temática, como vídeos, actividades, canciones y otros materiales complementarios, con el objetivo de enriquecer el proceso de enseñanza-aprendizaje de forma dinámica y motivadora.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;">También se expone un Symbaloo, donde he recopilado las web y aplicaciones que utilizo día a día para la gestión de mi aula.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779809779991-vg1pem5ho","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\">A continuación se presenta un Padlet en el que se recogen diversos recursos relacionados con la temática, como vídeos, actividades, canciones y otros materiales complementarios, con el objetivo de enriquecer el proceso de enseñanza-aprendizaje de forma dinámica y motivadora.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\">También se expone un Symbaloo, donde he recopilado las web y aplicaciones que utilizo día a día para la gestión de mi aula.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779780932722-myrwroser</odePageId>
+  <odeParentPageId>page-1779779726436-6rcz42iwa</odeParentPageId>
+  <pageName>PADLET</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PADLET</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779780932722-myrwroser</odePageId>
+      <odeBlockId>block-1779809986387-87zyx2gyj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779780932722-myrwroser</odePageId>
+          <odeBlockId>block-1779809986387-87zyx2gyj</odeBlockId>
+          <odeIdeviceId>idevice-1779809986377-7xf1pgd60</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/u0s7oc3ooukdzbvj" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779809986377-7xf1pgd60","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/u0s7oc3ooukdzbvj\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779780942491-1nrqclepx</odePageId>
+  <odeParentPageId>page-1779779726436-6rcz42iwa</odeParentPageId>
+  <pageName>SYMBALOO</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SYMBALOO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779780942491-1nrqclepx</odePageId>
+      <odeBlockId>block-1779810219812-5oc486rha</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779780942491-1nrqclepx</odePageId>
+          <odeBlockId>block-1779810219812-5oc486rha</odeBlockId>
+          <odeIdeviceId>idevice-1779810219808-b6g077r2k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAAdp6gT4AA41-5EWRiw==" title="">https://www.symbaloo.com/shared/AAAAAdp6gT4AA41-5EWRiw==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779810219808-b6g077r2k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAAdp6gT4AA41-5EWRiw==\" title=\"\">https://www.symbaloo.com/shared/AAAAAdp6gT4AA41-5EWRiw==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779779735771-1cfqf14vj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA DEL TIEMPO</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA DEL TIEMPO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779779735771-1cfqf14vj</odePageId>
+      <odeBlockId>block-1779810283731-f90kcspa3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779779735771-1cfqf14vj</odePageId>
+          <odeBlockId>block-1779810283731-f90kcspa3</odeBlockId>
+          <odeIdeviceId>idevice-1779810283727-5m817g1gd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;">Se ha realizado una línea del tiempo de la temporalización completa de la Situación de Aprendizaje mediante la herramienta Genially. Su finalidad es permitir visualizar de forma clara y rápida toda la secuencia didáctica, incluyendo las actividades, los agrupamientos y los recursos que se utilizarán a lo largo del desarrollo de la SdA. De este modo, tanto el docente como el alumnado pueden tener una visión global y organizada de todo el proceso de enseñanza-aprendizaje.</span></p>
+<p><a href="https://view.genially.com/6a02dadf90557d8dfbf23d61" title="">https://view.genially.com/6a02dadf90557d8dfbf23d61</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779810283727-5m817g1gd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\">Se ha realizado una línea del tiempo de la temporalización completa de la Situación de Aprendizaje mediante la herramienta Genially. Su finalidad es permitir visualizar de forma clara y rápida toda la secuencia didáctica, incluyendo las actividades, los agrupamientos y los recursos que se utilizarán a lo largo del desarrollo de la SdA. De este modo, tanto el docente como el alumnado pueden tener una visión global y organizada de todo el proceso de enseñanza-aprendizaje.</span></p>\n<p><a href=\"https://view.genially.com/6a02dadf90557d8dfbf23d61\" title=\"\">https://view.genially.com/6a02dadf90557d8dfbf23d61</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779779758074-yl8jb25mz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779779758074-yl8jb25mz</odePageId>
+      <odeBlockId>block-1779810584400-s28azgyn2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779779758074-yl8jb25mz</odePageId>
+          <odeBlockId>block-1779810584400-s28azgyn2</odeBlockId>
+          <odeIdeviceId>idevice-1779810584398-ogpa5n5cl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif; color: #236fa1;">A continuación, en el siguiente enlace se ofrece una guía didáctica en la que se detallan las distintas actividades que se desarrollan en la presente Situación de Aprendizaje. En ella se establecen las relaciones con los criterios de evaluación, así como también se señalan otros aspectos relevantes como la duración prevista, los recursos utilizados... proporcionando una visión completa de su desarrollo.</span></p>
+<p><a href="https://docs.google.com/document/d/1Mbv_0A52-q0pVaWnat2yvUkxcyM7Vdm2orYRJxcf-cU/edit?usp=sharing" title="">https://docs.google.com/document/d/1Mbv_0A52-q0pVaWnat2yvUkxcyM7Vdm2orYRJxcf-cU/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779810584398-ogpa5n5cl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #236fa1;\">A continuación, en el siguiente enlace se ofrece una guía didáctica en la que se detallan las distintas actividades que se desarrollan en la presente Situación de Aprendizaje. En ella se establecen las relaciones con los criterios de evaluación, así como también se señalan otros aspectos relevantes como la duración prevista, los recursos utilizados... proporcionando una visión completa de su desarrollo.</span></p>\n<p><a href=\"https://docs.google.com/document/d/1Mbv_0A52-q0pVaWnat2yvUkxcyM7Vdm2orYRJxcf-cU/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1Mbv_0A52-q0pVaWnat2yvUkxcyM7Vdm2orYRJxcf-cU/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779779789020-y0tpt1wmb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779779789020-y0tpt1wmb</odePageId>
+      <odeBlockId>block-1779810766387-lpi964qac</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779779789020-y0tpt1wmb</odePageId>
+          <odeBlockId>block-1779810766387-lpi964qac</odeBlockId>
+          <odeIdeviceId>idevice-1779810766382-74d6pbvlh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">Para evaluar un proyecto de podcast en el Tercer Ciclo de Primaria, desde mi punto de vista, lo ideal es combinar una rúbrica, para que yo como docente, califique los criterios de forma objetiva, criterios que a su vez evalúa el nivel de adquisición de las competencias específicas del área, las cuales están relacionadas con las competencias clave del perfil de salida. Y una diana de evaluación, para que los alumnos realicen una autoevaluación visual y consciente de su propio trabajo.</span></p>
+<p><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">De esta manera, la rúbrica evaluará el podcast musical y los criterios de evaluación relacionado con la competencia digital y la competencia específica 2 y 4. Esta rúbrica está diseñada con 4 niveles de logro para evitar el "término medio" y ajustarse a las competencias de expresión, investigación y uso de las TIC.</span></p>
+<p><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;" title=""><a href="https://docs.google.com/document/d/1ARXZv1Ry4hkOeJ04_oQ61P8CbW4KVQSW3r9SMvh7quI/edit?usp=sharing">https://docs.google.com/document/d/1ARXZv1Ry4hkOeJ04_oQ61P8CbW4KVQSW3r9SMvh7quI/edit?usp=sharing</a> </span></p>
+<p><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">La diana es un método visual excelente para Primaria. Imagina una diana de tiro con arco con 4 círculos concéntricos , el centro es 4: ¡Excelente! y el exterior es 1: Hay que mejorar. Pasando por el 3: Muy bien y el 2: Bien.</span></p>
+<p><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">Le pido a los alumnos que dibujen un punto en cada uno de los siguientes 4 ejes según cómo crean que lo han hecho, y que luego unan los puntos para ver la forma de su esfuerzo.</span></p>
+<p><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">Eje 1: Mi participación en el grupo</span></p>
+<p><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">4 (Centro): He ayudado a mis compañeros, he aportado ideas y he cumplido con mi parte del trabajo a tiempo</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">3: He aportado ideas y he cumplido con mi parte del trabajo.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">2: He cumplido con mi parte del trabajo.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">1 (Exterior): No he trabajado casi nada y he dejado que mis compañeros hicieran todo el esfuerzo.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">Eje 2: La investigación musical</span></p>
+<p><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">4 (Centro): He descubierto cosas fascinantes sobre el género, escuchando las canciones con atención.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">3: He descubierto todos los géneros.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">2: He escuchado con atención todos los géneros.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">1 (Exterior): Me he limitado a buscar lo primero que salía en internet sin escuchar la música.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">Eje 3: Mi voz frente al micrófono</span></p>
+<p><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">4 (Centro): Me he expresado con claridad, energía, vocalizando bien y perdiendo el miedo a hablar.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">3: Me he expresado con claridad y vocalizando.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">2: Me he expresado con claridad.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">1 (Exterior): He hablado muy flojo, rápido o me ha dado vergüenza participar en la grabación.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">Eje 4: Respeto y escucha</span></p>
+<p><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">4 (Centro): He respetado el turno de palabra de mi equipo y he escuchado con interés los podcasts de los demás grupos.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">3: He respetado el turno de palabra en equipo.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">2: He escuchado a todos los grupos.</span><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">1 (Exterior): Interrumpía a mis compañeros o no he prestado atención a sus propuestas.</span></p>
+<p><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;"><a href="https://canva.link/sgv4984r6q6ewv7">https://canva.link/sgv4984r6q6ewv7 </a></span></p>
+<p><br /><span style="color: #236fa1; font-family: 'comic sans ms', sans-serif;">Me parece interesante entregar la rúbrica y la diana antes de empezar el proyecto. Si los alumnos saben exactamente qué vas a evaluar (y qué se van a evaluar ellos mismos), se autorregularán muchísimo mejor durante el proceso de grabación del podcast.</span></p>
+<p> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779810766382-74d6pbvlh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">Para evaluar un proyecto de podcast en el Tercer Ciclo de Primaria, desde mi punto de vista, lo ideal es combinar una rúbrica, para que yo como docente, califique los criterios de forma objetiva, criterios que a su vez evalúa el nivel de adquisición de las competencias específicas del área, las cuales están relacionadas con las competencias clave del perfil de salida. Y una diana de evaluación, para que los alumnos realicen una autoevaluación visual y consciente de su propio trabajo.</span></p>\n<p><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">De esta manera, la rúbrica evaluará el podcast musical y los criterios de evaluación relacionado con la competencia digital y la competencia específica 2 y 4. Esta rúbrica está diseñada con 4 niveles de logro para evitar el \"término medio\" y ajustarse a las competencias de expresión, investigación y uso de las TIC.</span></p>\n<p><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\" title=\"\"><a href=\"https://docs.google.com/document/d/1ARXZv1Ry4hkOeJ04_oQ61P8CbW4KVQSW3r9SMvh7quI/edit?usp=sharing\">https://docs.google.com/document/d/1ARXZv1Ry4hkOeJ04_oQ61P8CbW4KVQSW3r9SMvh7quI/edit?usp=sharing</a> </span></p>\n<p><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">La diana es un método visual excelente para Primaria. Imagina una diana de tiro con arco con 4 círculos concéntricos , el centro es 4: ¡Excelente! y el exterior es 1: Hay que mejorar. Pasando por el 3: Muy bien y el 2: Bien.</span></p>\n<p><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">Le pido a los alumnos que dibujen un punto en cada uno de los siguientes 4 ejes según cómo crean que lo han hecho, y que luego unan los puntos para ver la forma de su esfuerzo.</span></p>\n<p><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">Eje 1: Mi participación en el grupo</span></p>\n<p><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">4 (Centro): He ayudado a mis compañeros, he aportado ideas y he cumplido con mi parte del trabajo a tiempo</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">3: He aportado ideas y he cumplido con mi parte del trabajo.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">2: He cumplido con mi parte del trabajo.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">1 (Exterior): No he trabajado casi nada y he dejado que mis compañeros hicieran todo el esfuerzo.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">Eje 2: La investigación musical</span></p>\n<p><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">4 (Centro): He descubierto cosas fascinantes sobre el género, escuchando las canciones con atención.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">3: He descubierto todos los géneros.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">2: He escuchado con atención todos los géneros.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">1 (Exterior): Me he limitado a buscar lo primero que salía en internet sin escuchar la música.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">Eje 3: Mi voz frente al micrófono</span></p>\n<p><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">4 (Centro): Me he expresado con claridad, energía, vocalizando bien y perdiendo el miedo a hablar.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">3: Me he expresado con claridad y vocalizando.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">2: Me he expresado con claridad.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">1 (Exterior): He hablado muy flojo, rápido o me ha dado vergüenza participar en la grabación.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">Eje 4: Respeto y escucha</span></p>\n<p><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">4 (Centro): He respetado el turno de palabra de mi equipo y he escuchado con interés los podcasts de los demás grupos.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">3: He respetado el turno de palabra en equipo.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">2: He escuchado a todos los grupos.</span><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">1 (Exterior): Interrumpía a mis compañeros o no he prestado atención a sus propuestas.</span></p>\n<p><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\"><a href=\"https://canva.link/sgv4984r6q6ewv7\">https://canva.link/sgv4984r6q6ewv7 </a></span></p>\n<p><br /><span style=\"color: #236fa1; font-family: 'comic sans ms', sans-serif;\">Me parece interesante entregar la rúbrica y la diana antes de empezar el proyecto. Si los alumnos saben exactamente qué vas a evaluar (y qué se van a evaluar ellos mismos), se autorregularán muchísimo mejor durante el proceso de grabación del podcast.</span></p>\n<p> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779779798454-jh2gnmtef</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779779798454-jh2gnmtef</odePageId>
+      <odeBlockId>block-1779812049254-b1dgm37zy</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779779798454-jh2gnmtef</odePageId>
+          <odeBlockId>block-1779812049254-b1dgm37zy</odeBlockId>
+          <odeIdeviceId>idevice-1779812049248-euf1ditn1</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">La vuelta al mundo en 80 ritmos</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta SdA ha sido creada para el conocimiento de los diferentes géneros musicales del mundo y va dirigida al segundo ciclo de Primaria.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Noemí Ojeda García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779779798454-jh2gnmtef</odePageId>
+      <odeBlockId>block-1779865936791-kqvjwksjm</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779779798454-jh2gnmtef</odePageId>
+          <odeBlockId>block-1779865936791-kqvjwksjm</odeBlockId>
+          <odeIdeviceId>idevice-1779865936782-gjuw6bugq</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">La vuelta al mundo en 80 ritmos</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta SdA ha sido creada para el conocimiento de los diferentes géneros musicales del mundo y va dirigida al segundo ciclo de Primaria.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Noemí Ojeda García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
